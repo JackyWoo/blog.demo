@@ -20,7 +20,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		String str = new String("I am a simple string");
-		System.out.println(str.getClass().getClassLoader());
+		System.out.println("String is loaded by " + str.getClass().getClassLoader());
 		Main mainClass = new Main();
 	}
 

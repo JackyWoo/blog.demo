@@ -1,2 +1,2 @@
 # blog.demo
-博客用到的代码，博客地址http://jackywoo.cn/
+Code used in my blog http://jackywoo.cn/
